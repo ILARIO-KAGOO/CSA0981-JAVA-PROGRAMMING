@@ -1,3 +1,4 @@
+//Right Pascal Triangle
 import java.util.Scanner;  
 public class RightPascalTrianglePattern  
 {  
