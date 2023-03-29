@@ -1,10 +1,8 @@
-// import java.io.*;
-// import java.lang.*;
 class mean
 {
     public static void main(String[] args)
     {
-        int[] invalue = new int[]{2,3,4,1,2};
+        int[] invalue = new int[]{2,3,4,1,2}; //input
         int num_value=5;
         double tot=0;
         double mean=0;
@@ -87,3 +85,5 @@ class mean
         System.out.println("Mode value is :"+modeValue);
     }
 }
+// import java.io.*;
+// import java.lang.*;
