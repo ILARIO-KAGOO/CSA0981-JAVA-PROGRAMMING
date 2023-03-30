@@ -39,9 +39,6 @@ public class test2_1
                             names[j] = temp;
                         }
                         break;
-                    // default:
-                    //     System.out.println("Invalid Choice");
-                    //     break;
                 }
             }
         }
