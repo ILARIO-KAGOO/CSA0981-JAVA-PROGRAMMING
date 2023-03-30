@@ -10,7 +10,6 @@ public class numberskip
     System.out.print("Enter the skipping number:");
     int num = s.nextInt();
     s.close();
-    
     System.out.println("Skipped Range:");
     for(int i = 1 ; i < n ; i+=num)
     {
