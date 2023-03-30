@@ -53,5 +53,3 @@ public class namesorting_reverse
         // System.out.print(names[n - 1]);
     }
 }
-
-
