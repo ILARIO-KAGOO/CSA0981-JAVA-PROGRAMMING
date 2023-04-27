@@ -48,7 +48,7 @@ public class qn4
   public static void main(String[] args)
   {
     Scanner sc = new Scanner(System.in);
-    System.out.print("Integer or String(Y for Integer , N for String): ");
+    System.out.print("Integer or String(Y for String , N for Integer): ");
     String ans = sc.nextLine();
     if(ans.equals("Y"))
     {
